@@ -6,6 +6,11 @@ public class Demo {
 		
 		
 		System.out.println(" hello");
+		int a = 10 ;
+		System.out.println(a);
+		int b = 9;
+		System.out.println(b);
+		
 	}
 
 }
